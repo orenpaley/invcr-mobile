@@ -19,3 +19,14 @@
 #### UIKit
 
 ## visit [invcr.io](https://invcr.io) to try the web browser version
+
+
+### Step by Step Demo of invcr on IOS
+
+
+#### [Open App](https://github.com/orenpaley/invcr-mobile/blob/main/images/01.png)
+#### [Click make invoice](https://github.com/orenpaley/invcr-mobile/blob/main/images/02.png)
+#### [Edit Invoice Details](https://github.com/orenpaley/invcr-mobile/blob/main/images/03.png)
+#### [Add Items](https://github.com/orenpaley/invcr-mobile/blob/main/images/04.png)
+#### [Save and Print](https://github.com/orenpaley/invcr-mobile/blob/main/images/05.png)
+#### [Invoice PDF Example](https://github.com/orenpaley/invcr-mobile/blob/main/images/06.png)
