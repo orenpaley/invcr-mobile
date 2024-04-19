@@ -7,19 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BA5B797F2BD2E802009146B0 /* invcrMobileApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5B797E2BD2E802009146B0 /* invcrMobileApp.swift */; };
 		BA5B79812BD2E802009146B0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5B79802BD2E802009146B0 /* ContentView.swift */; };
 		BA5B79832BD2E803009146B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA5B79822BD2E803009146B0 /* Assets.xcassets */; };
 		BA5B79872BD2E803009146B0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA5B79862BD2E803009146B0 /* Preview Assets.xcassets */; };
+		BA5B798E2BD2E894009146B0 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5B798D2BD2E894009146B0 /* Constants.swift */; };
+		BA5B79902BD2E89C009146B0 /* invcr.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5B798F2BD2E89C009146B0 /* invcr.swift */; };
+		BA5B79922BD2E8A9009146B0 /* invcrMobileApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5B79912BD2E8A9009146B0 /* invcrMobileApp.swift */; };
+		BA5B79942BD2E8B4009146B0 /* Invoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5B79932BD2E8B4009146B0 /* Invoice.swift */; };
+		BA5B79982BD2E8CE009146B0 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5B79972BD2E8CE009146B0 /* Item.swift */; };
+		BA5B799A2BD2E8D2009146B0 /* ItemsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5B79992BD2E8D2009146B0 /* ItemsView.swift */; };
+		BA5B799E2BD2E8DF009146B0 /* PDFCreator.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5B799D2BD2E8DF009146B0 /* PDFCreator.swift */; };
+		BA5B79A22BD2E90E009146B0 /* PDFView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5B79A12BD2E90E009146B0 /* PDFView.swift */; };
+		BA5B79A42BD2E914009146B0 /* SharePDFView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5B79A32BD2E914009146B0 /* SharePDFView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		BA5B797B2BD2E802009146B0 /* invcrMobile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = invcrMobile.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		BA5B797E2BD2E802009146B0 /* invcrMobileApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = invcrMobileApp.swift; sourceTree = "<group>"; };
 		BA5B79802BD2E802009146B0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BA5B79822BD2E803009146B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA5B79842BD2E803009146B0 /* invcrMobile.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = invcrMobile.entitlements; sourceTree = "<group>"; };
 		BA5B79862BD2E803009146B0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BA5B798D2BD2E894009146B0 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Constants.swift; path = ../../invcrMobileOLD/Constants.swift; sourceTree = "<group>"; };
+		BA5B798F2BD2E89C009146B0 /* invcr.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = invcr.swift; path = ../../invcrMobileOLD/invcr.swift; sourceTree = "<group>"; };
+		BA5B79912BD2E8A9009146B0 /* invcrMobileApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = invcrMobileApp.swift; path = ../../invcrMobileOLD/invcrMobileApp.swift; sourceTree = "<group>"; };
+		BA5B79932BD2E8B4009146B0 /* Invoice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Invoice.swift; path = ../../invcrMobileOLD/Invoice.swift; sourceTree = "<group>"; };
+		BA5B79972BD2E8CE009146B0 /* Item.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Item.swift; path = ../../invcrMobileOLD/Item.swift; sourceTree = "<group>"; };
+		BA5B79992BD2E8D2009146B0 /* ItemsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ItemsView.swift; path = ../../invcrMobileOLD/ItemsView.swift; sourceTree = "<group>"; };
+		BA5B799D2BD2E8DF009146B0 /* PDFCreator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PDFCreator.swift; path = ../../invcrMobileOLD/PDFCreator.swift; sourceTree = "<group>"; };
+		BA5B79A12BD2E90E009146B0 /* PDFView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PDFView.swift; path = ../../invcrMobileOLD/PDFView.swift; sourceTree = "<group>"; };
+		BA5B79A32BD2E914009146B0 /* SharePDFView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SharePDFView.swift; path = ../../invcrMobileOLD/SharePDFView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,9 +68,17 @@
 		BA5B797D2BD2E802009146B0 /* invcrMobile */ = {
 			isa = PBXGroup;
 			children = (
-				BA5B797E2BD2E802009146B0 /* invcrMobileApp.swift */,
+				BA5B79A32BD2E914009146B0 /* SharePDFView.swift */,
+				BA5B79A12BD2E90E009146B0 /* PDFView.swift */,
+				BA5B799D2BD2E8DF009146B0 /* PDFCreator.swift */,
+				BA5B79992BD2E8D2009146B0 /* ItemsView.swift */,
+				BA5B79972BD2E8CE009146B0 /* Item.swift */,
+				BA5B79932BD2E8B4009146B0 /* Invoice.swift */,
+				BA5B798F2BD2E89C009146B0 /* invcr.swift */,
+				BA5B798D2BD2E894009146B0 /* Constants.swift */,
 				BA5B79802BD2E802009146B0 /* ContentView.swift */,
 				BA5B79822BD2E803009146B0 /* Assets.xcassets */,
+				BA5B79912BD2E8A9009146B0 /* invcrMobileApp.swift */,
 				BA5B79842BD2E803009146B0 /* invcrMobile.entitlements */,
 				BA5B79852BD2E803009146B0 /* Preview Content */,
 			);
@@ -139,8 +163,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA5B799A2BD2E8D2009146B0 /* ItemsView.swift in Sources */,
+				BA5B79A22BD2E90E009146B0 /* PDFView.swift in Sources */,
+				BA5B79902BD2E89C009146B0 /* invcr.swift in Sources */,
+				BA5B79A42BD2E914009146B0 /* SharePDFView.swift in Sources */,
+				BA5B79942BD2E8B4009146B0 /* Invoice.swift in Sources */,
+				BA5B79922BD2E8A9009146B0 /* invcrMobileApp.swift in Sources */,
+				BA5B79982BD2E8CE009146B0 /* Item.swift in Sources */,
 				BA5B79812BD2E802009146B0 /* ContentView.swift in Sources */,
-				BA5B797F2BD2E802009146B0 /* invcrMobileApp.swift in Sources */,
+				BA5B799E2BD2E8DF009146B0 /* PDFCreator.swift in Sources */,
+				BA5B798E2BD2E894009146B0 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,6 +304,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"invcrMobile/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = invcr;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -308,6 +341,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"invcrMobile/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = invcr;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
