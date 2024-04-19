@@ -19,6 +19,7 @@
 		BA5B799E2BD2E8DF009146B0 /* PDFCreator.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5B799D2BD2E8DF009146B0 /* PDFCreator.swift */; };
 		BA5B79A22BD2E90E009146B0 /* PDFView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5B79A12BD2E90E009146B0 /* PDFView.swift */; };
 		BA5B79A42BD2E914009146B0 /* SharePDFView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5B79A32BD2E914009146B0 /* SharePDFView.swift */; };
+		BAED10742BD2F2F3007EB295 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = BAED10732BD2F2F3007EB295 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		BA5B799D2BD2E8DF009146B0 /* PDFCreator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PDFCreator.swift; path = ../../invcrMobileOLD/PDFCreator.swift; sourceTree = "<group>"; };
 		BA5B79A12BD2E90E009146B0 /* PDFView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PDFView.swift; path = ../../invcrMobileOLD/PDFView.swift; sourceTree = "<group>"; };
 		BA5B79A32BD2E914009146B0 /* SharePDFView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SharePDFView.swift; path = ../../invcrMobileOLD/SharePDFView.swift; sourceTree = "<group>"; };
+		BAED10732BD2F2F3007EB295 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 		BA5B79722BD2E802009146B0 = {
 			isa = PBXGroup;
 			children = (
+				BAED10732BD2F2F3007EB295 /* README.md */,
 				BA5B797D2BD2E802009146B0 /* invcrMobile */,
 				BA5B797C2BD2E802009146B0 /* Products */,
 			);
@@ -151,6 +154,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BAED10742BD2F2F3007EB295 /* README.md in Resources */,
 				BA5B79872BD2E803009146B0 /* Preview Assets.xcassets in Resources */,
 				BA5B79832BD2E803009146B0 /* Assets.xcassets in Resources */,
 			);
