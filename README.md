@@ -21,12 +21,13 @@
 ## visit [invcr.io](https://invcr.io) to try the web browser version
 
 
-### Step by Step Demo of invcr on IOS
+### Screenshots
+<img src="https://github.com/orenpaley/invcr-mobile/blob/main/images/02.png" width="250" height="340" alt="click make invoice">
 
+<img src="https://github.com/orenpaley/invcr-mobile/blob/main/images/03.png" width="250" height="340" alt="edit invoice details">
 
-#### [Open App](https://github.com/orenpaley/invcr-mobile/blob/main/images/01.png)
-#### [Click make invoice](https://github.com/orenpaley/invcr-mobile/blob/main/images/02.png)
-#### [Edit Invoice Details](https://github.com/orenpaley/invcr-mobile/blob/main/images/03.png)
-#### [Add Items](https://github.com/orenpaley/invcr-mobile/blob/main/images/04.png)
-#### [Save and Print](https://github.com/orenpaley/invcr-mobile/blob/main/images/05.png)
-#### [Invoice PDF Example](https://github.com/orenpaley/invcr-mobile/blob/main/images/06.png)
+<img src="https://github.com/orenpaley/invcr-mobile/blob/main/images/04.png" width="250" height="340" alt="add items">
+
+<img src="https://github.com/orenpaley/invcr-mobile/blob/main/images/05.png" width="250" height="340" alt="save and print">
+
+<img src="https://github.com/orenpaley/invcr-mobile/blob/main/images/06.png" width="250" height="340" alt="invoice pdf example">
